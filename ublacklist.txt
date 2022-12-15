@@ -3,8 +3,8 @@ title/([!！！？].*){2,}/
 title/[\d０-９]つ/
 title/[\d０-９]選/
 title/iki風/
-title/、.*てしまう/
 title/【20\d{2}/
+title/【画像/
 title/い[!！?？]/
 title/がこちら/
 title/が監修/
@@ -13,10 +13,11 @@ title/さん[、「]/
 title/と話題/
 title/の[?？]/
 title/は[!！?？]/
+title/まとめ/
 title/も[!！?？]
 title/る[!！?？]/
 title/報】/
-title/徹底(レビュー|検証|比較|解説|調査)/
+title/徹底(レビュー|検証|比較|解|調査)/
 title/ｗ{3,}/
 
 #　正規表現ドメインブロック
