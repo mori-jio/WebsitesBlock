@@ -10,6 +10,7 @@ title/がこちら/
 title/が監修/
 title/が解説/
 title/さん[、「]/
+title/た結果/
 title/と話題/
 title/の[?？]/
 title/は[!！?？]/
@@ -18,6 +19,7 @@ title/も[!！?？]
 title/る[!！?？]/
 title/報】/
 title/徹底(レビュー|検証|比較|解|調査)/
+title/版】/
 title/ｗ{3,}/
 
 #　正規表現ドメインブロック
