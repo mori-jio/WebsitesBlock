@@ -6,7 +6,7 @@ title/.*「/
 title/[\d０-９]つ/
 title/[\d０-９]選/
 title/iki風/
-title/、(てしまう|る|終了)
+title/、(てしまう|る|終了)/
 title/【20\d{2}/
 title/【画像/
 title/あす楽対応/
