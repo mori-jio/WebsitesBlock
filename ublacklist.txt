@@ -1,29 +1,39 @@
 #　タイトル
 title/([!！！？].*){2,}/
+title/(やば|ヤバ)[いすイ]/
+title/(最新|版)】/
+title/.*「/
 title/[\d０-９]つ/
 title/[\d０-９]選/
 title/iki風/
 title/【20\d{2}/
 title/【画像/
+title/あす楽対応/
+title/あらすじ/
 title/がこちら/
 title/が監修/
 title/が解説/
-title/さん[、「]/
+title/さん、/
 title/すぎる/
 title/た結果/
 title/と話題/
 title/は[!！?？]/
 title/まとめ/
-title/やばい|ヤバ[いイ]/
-title/る[!！?？]/
+title/ネタバレ/
 title/報】/
 title/徹底(レビュー|検証|比較|解|調査)/
-title/版】/
+title/性格が?悪/
+title/炎上/
+title/顔画像/
 title/ｗ{3,}/
 
 #　正規表現ドメインブロック
 /^https?:\/\/(.*[25]ch.*\.(.*)\/)/
 /^https?:\/\/(.*\.pinterest\.(.*)\/)/
+/^https?:\/\/(.*buzz.*)/
+/^https?:\/\/(.*entame.*)/
+/^https?:\/\/(.*kousats?u.*)/
+/^https?:\/\/(.*netabare.*)/
 /^https?:\/\/(.*news.*)/
 /^https?:\/\/(.*soku\.(.*)\/)/
 /^https?:\/\/(.*sokuho.*)/
