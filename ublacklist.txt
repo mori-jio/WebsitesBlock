@@ -14,22 +14,27 @@ title/がこちら/
 title/が監修/
 title/が解説/
 title/さん、/
-title/すぎる/
+title/すぎ[てる]/
 title/た結果/
 title/と話題/
 title/は[!！?？]/
 title/まとめ/
+title/アフィリエイ/
+title/デメリット/
 title/ネタバレ/
+title/儲かる/
 title/報】/
 title/徹底(レビュー|検証|比較|解|調査)/
 title/性格が?悪/
 title/炎上/
+title/稼(いだ|げる)/
 title/顔画像/
 title/ｗ{3,}/
 
 #　正規表現ドメインブロック
 /^https?:\/\/(.*[25]ch.*\.(.*)\/)/
 /^https?:\/\/(.*\.pinterest\.(.*)\/)/
+/^https?:\/\/(.*affiliate.*)/
 /^https?:\/\/(.*buzz.*)/
 /^https?:\/\/(.*entame.*)/
 /^https?:\/\/(.*kousats?u.*)/
