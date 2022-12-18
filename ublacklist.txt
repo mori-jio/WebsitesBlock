@@ -2,7 +2,6 @@
 title/([!！！？].*){2,}/
 title/(やば|ヤバ)[いすイ]/
 title/(最新|版)】/
-title/.*「/
 title/[\d０-９]つ/
 title/[\d０-９]選/
 title/iki風/
