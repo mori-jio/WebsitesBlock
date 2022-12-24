@@ -34,13 +34,13 @@ title/ｗ{3,}/
 
 #　正規表現ドメインブロック
 /^https?:\/\/(.*[25]ch.*\.(.*)\/)/
-/^https?:\/\/(.*\.pinterest\.(.*)\/)/
 /^https?:\/\/(.*affiliate.*)/
 /^https?:\/\/(.*buzz.*)/
 /^https?:\/\/(.*entame.*)/
 /^https?:\/\/(.*kousats?u.*)/
 /^https?:\/\/(.*netabare.*)/
 /^https?:\/\/(.*news.*)/
+/^https?:\/\/(.*pinterest.*)/
 /^https?:\/\/(.*soku\.(.*)\/)/
 /^https?:\/\/(.*sokuho.*)/
 /^https?:\/\/(?!.*(\.com\/|\.jp\/|\.net\/|org\/)).*$/
