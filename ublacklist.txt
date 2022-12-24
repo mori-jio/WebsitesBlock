@@ -12,7 +12,7 @@ title/あす楽対応/
 title/あらすじ/
 title/がこちら/
 title/が監修/
-title/が解説/
+title/[がも]解説/
 title/さん、/
 title/すぎ[てる]/
 title/た結果/
