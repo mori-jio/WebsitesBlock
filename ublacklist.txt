@@ -38,6 +38,7 @@ title/ｗ{3,}/
 /^https?:\/\/(.*buzz.*)/
 /^https?:\/\/(.*entame.*)/
 /^https?:\/\/(.*kousats?u.*)/
+/^https?:\/\/(.*matome.*)/
 /^https?:\/\/(.*netabare.*)/
 /^https?:\/\/(.*news.*)/
 /^https?:\/\/(.*pinterest.*)/
