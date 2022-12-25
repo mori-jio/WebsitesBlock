@@ -1,6 +1,8 @@
 #　タイトル
 title/(TOP|トップ)\d/
 title/([!！！？].*){2,}/
+title/(ひど酷)い/
+title/(まず|不味)い/
 title/(やば|ヤバ)[いすイ]/
 title/(最新|版)】/
 title/[\d０-９]つ/
@@ -17,6 +19,7 @@ title/が監修/
 title/さん、/
 title/すぎ[てる]/
 title/た結果/
+title/つまらな/
 title/と話題/
 title/は[!！?？]/
 title/まとめ/
@@ -25,6 +28,7 @@ title/ガチで/
 title/デメリット/
 title/ネタバレ/
 title/儲かる/
+title/口コミ(レビュー|評判)/
 title/報】/
 title/徹底(レビュー|検証|比較|解|調査)/
 title/性格が?悪/
