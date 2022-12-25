@@ -9,6 +9,7 @@ title/(最新|版)】/
 title/[\d０-９]つ/
 title/[\d０-９]選/
 title/[がも]解説/
+title/[ては]本当/
 title/iki風/
 title/、(てしまう|る|終了)/
 title/【20\d{2}/
