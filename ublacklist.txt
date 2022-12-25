@@ -1,9 +1,11 @@
 #　タイトル
+title/(TOP|トップ)\d/
 title/([!！！？].*){2,}/
 title/(やば|ヤバ)[いすイ]/
 title/(最新|版)】/
 title/[\d０-９]つ/
 title/[\d０-９]選/
+title/[がも]解説/
 title/iki風/
 title/、(てしまう|る|終了)/
 title/【20\d{2}/
@@ -12,7 +14,6 @@ title/あす楽対応/
 title/あらすじ/
 title/がこちら/
 title/が監修/
-title/[がも]解説/
 title/さん、/
 title/すぎ[てる]/
 title/た結果/
