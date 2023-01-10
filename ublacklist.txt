@@ -17,6 +17,7 @@ title/【20\d{2}/
 title/【画像/
 title/あす楽対応/
 title/あらすじ/
+title/いつ[!！?？]/
 title/がこちら/
 title/さん、/
 title/すぎ[てる]/
@@ -30,6 +31,7 @@ title/アフィリエイ/
 title/ガチで/
 title/デメリット/
 title/ネタバレ/
+title/何[!！?？]/
 title/儲かる/
 title/報】/
 title/徹底(レビュー|検証|比較|解|調査)/
@@ -37,6 +39,7 @@ title/性格が?悪/
 title/批判|殺到|炎上|疑惑|続出|騒然/
 title/監修/
 title/稼(いだ|げる)/
+title/誰[!！?？]/
 title/顔画像/
 title/ｗ{3,}/
 
