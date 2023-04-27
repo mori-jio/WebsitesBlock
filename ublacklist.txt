@@ -21,6 +21,7 @@ title/いつ[!！?？]/
 title/がこちら/
 title/さん、/
 title/すぎ[てる]/
+title/せどり/
 title/た結果/
 title/つまらな/
 title/と話題/
@@ -55,7 +56,7 @@ title/ｗ{3,}/
 /^https?:\/\/(.*pinterest.*)/
 /^https?:\/\/(.*soku\.(.*)\/)/
 /^https?:\/\/(.*sokuho.*)/
-/^https?:\/\/(?!.*(\.com\/|\.jp\/|\.net\/|org\/)).*$/
+/^https?:\/\/(?!.*(\.com\/|\.info\/|\.jp\/|\.net\/|org\/)).*$/
 /^https?:\/\/([^/.]+\.)*?xn--/
 /^https?:\/\/.*tter\.com\/.*$/
 
