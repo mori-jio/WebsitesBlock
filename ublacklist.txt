@@ -2,7 +2,8 @@
 title/((口コミ|レビュー|感想|評).*){2,}/
 title/(TOP|トップ)\d/
 title/([!！?？].*){2,}/
-title/(ひど酷)い/
+title/(うざ|ウザ)い/
+title/(ひど|酷)い/
 title/(まず|不味)い/
 title/(やば|ヤバ)[いすイ]/
 title/(最新|版)】/
@@ -32,6 +33,7 @@ title/アフィリエイ/
 title/ガチで/
 title/デメリット/
 title/ネタバレ/
+title/打ち切り/
 title/何[!！?？]/
 title/儲かる/
 title/報】/
