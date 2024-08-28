@@ -25,7 +25,7 @@ title/すぎ[てる]/
 title/せどり/
 title/た結果/
 title/つまらな/
-title/と話題/
+title/[がと]話題/
 title/の声/
 title/は[!！?？]/
 title/まとめ/
@@ -39,7 +39,7 @@ title/儲かる/
 title/報】/
 title/徹底(レビュー|検証|比較|解|調査)/
 title/性格が?悪/
-title/批判|殺到|炎上|疑惑|続出|騒然/
+title/批判|殺到|炎上|疑惑|賛否|続出|騒然/
 title/監修/
 title/稼(いだ|げる)/
 title/誰[!！?？]/
