@@ -7,8 +7,8 @@ title/(ひど|酷)い/
 title/(まず|不味)い/
 title/(やば|ヤバ)[いすイ]/
 title/(最新|版)】/
-title/[\d０-９]つ/
-title/[\d０-９]選/
+title/[0-9０-９]つ/
+title/[0-9０-９]選/
 title/[くが]解説/
 title/[ては]本当/
 title/iki風/
